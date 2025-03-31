@@ -89,8 +89,6 @@ Implement and compare process-based vs thread-based parallel programming
 
 Apply file I/O and time measurement in C++
 
-## 📦 Compilation Instructions ### Compile with `g++`:
-```bash g++ -o bmi_sequential bmi_sequential.cpp g++ -o bmi_multiprocessing bmi_multiprocessing.cpp g++ -pthread -o bmi_multithreaded bmi_multithreaded.cpp
 
 
 
